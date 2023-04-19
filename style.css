@@ -152,7 +152,7 @@ main {
     outline: none;
 }
 
-.dice {
+.dice-image {
     position: absolute;
     left: 50%;
     top: 16.5rem;
@@ -168,4 +168,8 @@ main {
 .player--winner .name {
     font-weight: 700;
     color: #c7365f;
+}
+
+.hidden {
+    display: none;
 }
